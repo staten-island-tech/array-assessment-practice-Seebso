@@ -46,7 +46,7 @@ const books = [
     authorFirst: "Jane",
     authorLast: "Austen",
     publishDate: 1813,
-    genre: ["fiction"],
+    genre: ["fiction"],  
   },
   {
     name: "The Catcher in the Rye",
@@ -87,7 +87,7 @@ const titles = [
 //Array of authors and the book they wrote
 //"--- wrote --- in ---"
 
-//Sort books from oldest to most recent
+//Sort books from oldest to most recent 
 
 //sort books alphabetically
 
@@ -100,5 +100,5 @@ const titles = [
 //was every book published within the last 100 years?
 
 //print a list of books that "includes" the genre historical
-
-console.log("hehe")
+books.forEach 
+console.log("Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.")
